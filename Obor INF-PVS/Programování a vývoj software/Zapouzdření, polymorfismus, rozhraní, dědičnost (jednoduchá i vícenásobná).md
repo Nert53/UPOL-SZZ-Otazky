@@ -37,7 +37,7 @@ class Bird implements Flight {
 - typ *datové abstrakce*
 >[!info]
 >**Princip dědičnosti**
->Možnost vytvářet ke třídám potomky (eventuálně předky). Vzniká tím stromová hierarchie (**strom dědičnosti**). Pokud je vztah přímý (není na cestě obsažena třída) nazýváme **přímý předek/potomek**.
+>Možnost vytvářet ke třídám potomky (eventuálně předky). Vzniká tím stromová hierarchie (*strom dědičnosti*). Pokud je vztah přímý (není na cestě obsažena třída) nazýváme *přímý předek/potomek*.
 - ![[strom-trid.png]]
 ## Vícenásobná dědičnost
 - třída dědí o více než 1 rodiče (není podporováno ve všech jazycích)
